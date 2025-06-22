@@ -1,0 +1,13 @@
+<svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="4" y="4" width="48" height="48" rx="24" fill="#D1E9FF"/>
+<path d="M31 24H25C24.4477 24 24 24.4477 24 25V31C24 31.5523 24.4477 32 25 32H31C31.5523 32 32 31.5523 32 31V25C32 24.4477 31.5523 24 31 24Z" stroke="#1570EF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M19 24H20" stroke="#1570EF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M19 32H20" stroke="#1570EF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M24 19V20" stroke="#1570EF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M32 19V20" stroke="#1570EF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M36 24H37" stroke="#1570EF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M36 32H37" stroke="#1570EF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M24 36V37" stroke="#1570EF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M32 36V37" stroke="#1570EF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="4" y="4" width="48" height="48" rx="24" stroke="#EFF8FF" stroke-width="8"/>
+</svg>
